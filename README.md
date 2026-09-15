@@ -6,4 +6,4 @@ This summer I spent weeks at a structured credit firm hearing how traders (Comme
 
 # Goal
 Develop a proof-of-concept that filters news for specific traders with the help of AI APIs to filter for relevance. 
-
+ 
